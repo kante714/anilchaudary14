@@ -56,7 +56,8 @@ a {
     
 }
 .conact a:hover{
-   background:#000 ;
+   background:#fff ;
+   color:#000;
 }
 .conact a img { 
       width:70px ;
