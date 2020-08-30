@@ -128,19 +128,19 @@ a.active, a:hover {
 @keyframes animate {
   
   0%,100% {
-    background-image:url(images/1.png) ;
+    background-image:url(1.png) ;
     
   }
   25% {
-    background-image:url(images/2.jpg) ;
+    background-image:url(2.jpg) ;
     
   }
   50% {
-    background-image:url(images/3.jpg) ;
+    background-image:url(3.jpg) ;
     
   }
   75% {
-    background-image:url(images/4.jpg) ;
+    background-image:url(4.jpg) ;
     
   }
 }
@@ -148,7 +148,7 @@ a.active, a:hover {
 .bg1 {
    margin-top:-10px ;
    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), 
-   url(images/bg2.jpeg) no-repeat ;
+   url(bg2.jpeg) no-repeat ;
    background-size:cover ;
    height:895px;
 }
@@ -231,31 +231,31 @@ a.active, a:hover {
  }
  .swiper-slide:nth-child(1) .sliderText
  {
-   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(images/bg.jpg) no-repeat;
+   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(bg.jpg) no-repeat;
    background-position:center ;
    background-size:cover ;
  }
  .swiper-slide:nth-child(2) .sliderText
  {
-   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(images/sbg.jpg) no-repeat;
+   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(sbg.jpg) no-repeat;
    background-position:center ;
    background-size:cover ;
  }
  .swiper-slide:nth-child(3) .sliderText
  {
-   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(images/sbg1.jpg) no-repeat;
+   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(sbg1.jpg) no-repeat;
    background-position:center ;
    background-size:cover ;
  }
  .swiper-slide:nth-child(4) .sliderText
  {
-   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(images/sbg2.jpg) no-repeat;
+   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(sbg2.jpg) no-repeat;
    background-position:center ;
    background-size:cover ;
  }
  .swiper-slide:nth-child(5) .sliderText
  {
-   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(images/sbg3.jpg) no-repeat;
+   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), url(sbg3.jpg) no-repeat;
    background-position:center ;
    background-size:cover ;
  }
@@ -263,7 +263,7 @@ a.active, a:hover {
 .bg3 {
    margin-top:-10px ;
    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) ), 
-   url(images/favicon.ico) no-repeat ;
+   url(favicon.ico) no-repeat ;
    background-size:cover ;
    height:895px;
 }
